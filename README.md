@@ -250,8 +250,8 @@ Turn off your WiFi and WhatsBot still works. Everything runs locally.
 
 ## Author
 
-**Sruti Sivashankar**
-B.E. Information Technology
+**S.SRUTI**
+B.Tech. Information Technology
 
 **Kavi Nisha MP**
 B.Tech. Artificial Intelligence and Data Science
