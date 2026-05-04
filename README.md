@@ -253,6 +253,9 @@ Turn off your WiFi and WhatsBot still works. Everything runs locally.
 **Sruti Sivashankar**
 B.E. Information Technology
 
+**Kavi Nisha MP**
+B.Tech. Artificial Intelligence and Data Science
+
 Built using open-source AI tools — completely free, completely private.
 
 ---
