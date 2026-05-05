@@ -120,10 +120,11 @@ At query time, the user's question is embedded and compared against the vector s
 ---
 
 ## Project Structure
+
+```
 whatsbot/
 │
 ├── chat.txt                  # WhatsApp exported chat (user input)
-│
 ├── parse_chat.py             # Phase 1 — Parse and clean chat export
 ├── extract_qa.py             # Phase 2 — Extract Q&A using Mistral 7B
 ├── build_vectorstore.py      # Phase 3 — Embed and store in ChromaDB
@@ -134,8 +135,7 @@ whatsbot/
 ├── faq_db/                   # ChromaDB persistent vector store (auto-generated)
 │
 └── README.md
-
----
+```
 
 ## Installation
 
