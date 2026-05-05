@@ -95,6 +95,10 @@ WhatsBot UI         →  Displays answer in WhatsApp-styled chat interface
 
 ## Methodology
 
+<p align="center">
+  <img src="system_design.jpg" width="900"/>
+</p>
+
 ### Step 1 — Data Parsing
 
 The WhatsApp `.txt` export is parsed using regex to extract sender names and message text. System messages, media omissions, and very short messages are filtered out. Messages are grouped using a sliding window of 5 to preserve conversational context.
