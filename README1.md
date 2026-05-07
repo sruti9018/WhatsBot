@@ -16,7 +16,6 @@
 - [Architecture](#architecture)
 - [System Components](#system-components)
 - [Methodology](#methodology)
-- [New Features](#new-features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -116,37 +115,6 @@ Before storing, each extracted Q&A pair is checked against existing entries in C
 
 **Step 4 — Retrieval-Augmented Generation**
 At query time, the user's question is embedded and compared against the vector store. The top 3 closest matches are retrieved and passed as context to Mistral 7B, which generates a final natural-language answer grounded in the group's actual conversations. Questions the bot cannot answer are automatically logged to `unanswered.txt`.
-
----
-
-## New Features
-
-### 🔁 Duplicate Detection
-When ingesting new Q&A pairs, WhatsBot checks for semantic similarity against existing entries. Pairs with ≥90% similarity are skipped, keeping the knowledge base clean and non-redundant.
-
-### 📅 Rich Knowledge Extraction
-The Q&A extractor now captures beyond explicit questions — birthdays, deadlines, events, exam dates, and announcements are all automatically turned into searchable FAQ entries.
-
-### 🛠️ Admin Panel
-A dedicated Admin page lets you browse all FAQ entries, view sender attribution, and delete individual entries directly from the UI.
-
-### ❓ Unanswered Questions Log
-When WhatsBot cannot find an answer in context, the question is automatically logged to `unanswered.txt` with a timestamp. Admins can review and clear this log from the Admin Panel.
-
-### ⏰ Scheduled Auto-Rebuild
-WhatsBot can automatically re-scan `chat.txt` and add new messages on a schedule — daily (2:00 AM), every hour, or every minute (for testing). A live rebuild log is shown in the UI.
-
-### 🔄 Incremental Update & Force Rebuild
-The Update page supports two modes: incremental update (processes only new messages using a checkpoint) and force full rebuild (re-processes the entire chat from scratch).
-
-### 📋 FAQ Report Generator
-Generate and download a full HTML report of the knowledge base, including all FAQ entries, unanswered questions, and processing stats.
-
-### 🔒 Anonymous Mode
-Toggle Anonymous Mode to hide all sender names in the Admin Panel, ensuring privacy when reviewing FAQ entries in a shared or public context.
-
-### 🌐 Multi-Language Support
-WhatsBot now accepts questions in Tamil, Hindi, English, and more — the welcome screen explicitly invites users to ask in their preferred language.
 
 ---
 
