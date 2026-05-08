@@ -1,0 +1,1502 @@
+{
+  "syllabus": {
+    "ask_count": 1,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "Surendhir Anna",
+        "sender": "+91",
+        "score": 0.3
+      }
+    ],
+    "related_topics": [],
+    "has_contradiction": false,
+    "urgency_score": 0.5,
+    "last_answered": "",
+    "best_answer": "Surendhir Anna",
+    "best_sender": "+91",
+    "best_score": 0.3
+  },
+  "general": {
+    "ask_count": 200,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "ExploitX",
+        "sender": "Anna",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "+91 75501 61930",
+        "sender": "Unknown",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "@",
+        "sender": "+91 75501 61930",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "+91 75501 61930",
+        "sender": "Unknown",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "+91 99418 90173",
+        "sender": "Unknown",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "No na still we didn't got that <This message was edited>",
+        "sender": "+91 99418 90173",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "No",
+        "sender": "Sankara Narayanan",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "They didn't get a classification group update",
+        "sender": "Sankara Narayanan",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "No",
+        "sender": "+91 99418 90173",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "we have shrd it to hod 2 times, ur class advisors would have not shred it to u",
+        "sender": "+91 75501 61930",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Some depts got it",
+        "sender": "+91 75501 61930",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "+91 99418 90173",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "If they got it from HOD and request them to share it",
+        "sender": "+91 75501 61930",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "They will ask the person if they got it from HOD",
+        "sender": "Inference",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Ask your class advisor if they have got it and request them to share it.",
+        "sender": "+91 75501 61930",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Ask them if they have got it and request them to share it.",
+        "sender": "+91 75501 61930",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "mo_ish_id",
+        "sender": "+91 99418 90173",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "kavinisha_mp",
+        "sender": "Kavi Nisha",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "+91 75501 61930",
+        "sender": "+91 75501 61930",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "https://www.instagram.com/reel/DQjpPVak46e/?igsh=MWl1OW9vbXRwZDE1bA==",
+        "sender": "+91 75501 61930",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "+91 75501 61930",
+        "sender": "+91 75501 61930",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "No",
+        "sender": "+91 99418 90173",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "",
+        "sender": "+91 75501 61930",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "10 warm-up challenges for AOC activity",
+        "sender": "+91 75501 61930",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "join from that , it will give a popup  asking for university mail , give clg mail id there",
+        "sender": "+91 99522 11397",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "No, one cannot enroll in the team using a personal account.",
+        "sender": "+91 75501 61930",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "https://ctf.hackthebox.com/team/overview/302124",
+        "sender": "+91 75501 61930",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Yes, one should react after enrolling in the team.",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Give college mail id there.",
+        "sender": "+91 99522 11397",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "No, one cannot join the team from a personal account.",
+        "sender": "Sankara Narayanan",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Adhu edhuvum kekala na (I don't understand something)",
+        "sender": "Sankara Narayanan",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "He requested to join a section or group",
+        "sender": "Sankara Narayanan",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "+91 99522 11397",
+        "sender": "None",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "In the university's CTF",
+        "sender": "+91 99522 11397",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Yes, they asked him to join",
+        "sender": "+91 99522 11397",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Yes",
+        "sender": "Sandhya",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "User agreement",
+        "sender": "Sankara Narayanan",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Any dept it may be",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "Sankara Narayanan",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "'From other colleges'",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Yes",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Not confirmed",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Cyber sympo",
+        "sender": "Sankara Narayanan",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Cyber myth buster",
+        "sender": "Santhosh",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "+91 99418 90173",
+        "sender": "+91 99418 90173",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "If you are free try it out guyss",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Tommorow 6-8pm",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "'shazctf.online'",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Tomorrow",
+        "sender": "Surendhir Anna",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "Surendhir Anna",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Gmeet thana na",
+        "sender": "+91 99418 90173",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "No, Dei did not have a Google Meet",
+        "sender": "Surendhir Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Oo neralaya",
+        "sender": "+91 99418 90173",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Nalaki ungaluku College iruku thana",
+        "sender": "Surendhir Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "+91 99418 90173",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "+91 99418 90173",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "+91 99418 90173",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "If possible, it's your choice",
+        "sender": "Surendhir Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Near hut",
+        "sender": "Surendhir Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Surendhir Anna",
+        "sender": "System",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "They are leaving but I don't know if they have arrived yet",
+        "sender": "Logitha",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Yes, I am staying back",
+        "sender": "Surendhir Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Okay, I won't go",
+        "sender": "Surendhir Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "The phone number +91 99418 90173",
+        "sender": "Unknown",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "1st years nalaki compulsory meet",
+        "sender": "Vishal Anna",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Ellarum vanga always welcome you...m",
+        "sender": "Vishal Anna",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Ok anna",
+        "sender": "Santhosh",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Bus problem irukadhu apo",
+        "sender": "Sankara Narayanan",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Bag potutu vandhrulam",
+        "sender": "Sankara Narayanan",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "I think no one will come tomorrow that's ok.",
+        "sender": "Surendhir Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "It means 'I am not well'",
+        "sender": "Sankara Narayanan",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "He says he has no problem",
+        "sender": "Sankara Narayanan",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "Santhosh",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Yes, Ok",
+        "sender": "Surendhir Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Tomorrow",
+        "sender": "Surendhir Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "2nd January 2026 Friday evening",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Vishal Anna",
+        "sender": "Vishal Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Santhosh, Sankara Narayanan",
+        "sender": "Santhosh, Sankara Narayanan",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "+91 63819 84881",
+        "sender": "+91 63819 84881",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Bro comedy",
+        "sender": "Surendhir Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Romba try panatha atha varalaya",
+        "sender": "Surendhir Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Yes, there is no ECE students",
+        "sender": "Vishal Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Context bro",
+        "sender": "A group member",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Bro exploited zeroday in it",
+        "sender": "A group member",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "@Adarrsh , i expect you to be like him",
+        "sender": "A group member",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "new kind of bug where dev team dont know how to fix it",
+        "sender": "Vishal Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "A new kind of bug where the dev team doesn't know how to fix it",
+        "sender": "Vishal Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Both",
+        "sender": "Vishal Anna",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "It is a category, not a type of vulnerability",
+        "sender": "+91 99522 11397",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "https://drive.google.com/drive/folders/1xvO-A6N2xglEX-Vx5Txt2aeA9-DOWDLZ?usp=sharing",
+        "sender": "Logitha",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "I am not responsible for bad photos, it's your fellowmates..🙏😂",
+        "sender": "Logitha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "https://www.instagram.com/p/DSxd7cAj_Fc/?igsh=NGRhMWlwZXAxdjZ3",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "+91 95005 11686",
+        "sender": "+91 95005 11686",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Requesting all of you to upload a picture (Avoid selfies , upload in PNG format, 1:1 ratio) of yours and a short description on your role our club (3-4 lines)",
+        "sender": "+91 95005 11686",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "https://drive.google.com/drive/folders/1axVr9tAMQRC8QGOq8S8cLh_Z45oRLZ4E?usp=sharing",
+        "sender": "Vishal Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Not specified in the chat",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Not specified in the chat",
+        "sender": "Shwetha Akka - ExploitX",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Not specified in the chat",
+        "sender": "+91 95005 11686",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Not specified in the chat",
+        "sender": "Not specified in the chat",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "+91 99522 11397",
+        "sender": "+91 99522 11397",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Sriram Anna",
+        "sender": "Sriram Anna",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Not specified in the provided chat",
+        "sender": "Not specified",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Not specified in the provided chat",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "@⁨Sankara Narayanan⁩",
+        "sender": "System",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "iPhone",
+        "sender": "Logitha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "iPhone",
+        "sender": "Logitha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "The performance details were sent on Yamini's request.",
+        "sender": "Logitha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Unknown (not specified in the conversation).",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Interested na <This message was edited>",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "https://unstop.com/hackathons/0xti-ctf-hactivate-rajalakshmi-engineering-college-rec-chennai-1620274?fbclid=PAT01DUAPPUKNleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacFO1cwBjKDYEyMOWbhxZcsx_",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Surendhir Anna",
+        "sender": "-",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "-",
+        "sender": "-",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "'Kavi Nisha', 'Logitha'",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "response",
+        "sender": "+91 95005 11686",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "first years",
+        "sender": "+91 95005 11686",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "guys",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "response",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "in this group itself",
+        "sender": "+91 95005 11686",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "No body",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "B. Monishwaran",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Sandhya",
+        "sender": "Sandhya",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Name: santhosh Kumar N",
+        "sender": "Santhosh",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "S K Logitha",
+        "sender": "Logitha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Sankara Naarayanan S",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "M P Kavi Nisha",
+        "sender": "Kavi Nisha",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Santhosh Kumar N",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "<This message was edited>",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "+91 99522 11397",
+        "sender": "+91 99522 11397",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Thank you na 🙏",
+        "sender": "Logitha",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Not specified in the chat",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "happyy bdayy da logitha🥳🫂",
+        "sender": "Shwetha Akka - ExploitX",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Happy Birthday @⁨Logitha⁩",
+        "sender": "Vishal Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Logitha",
+        "sender": "+91 63819 84881",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "",
+        "sender": "+91 63819 84881",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Show this OD list to class advisor and come to citar library",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "They are asking for a hard copy",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "https://github.com/kathiravanbtm/ExploitX-Meetup-0x1",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "https://github.com/kathiravanbtm/ticket_repo",
+        "sender": "Kathiravan Anna",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "Guys yaruku la od kuduthutanga",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Enaku od kuduthutanga na",
+        "sender": "Kavi Nisha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Same situation here also na",
+        "sender": "Kavi Nisha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "github.com/kavinishamp-tech",
+        "sender": "Kavi Nisha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "github.com/santhoshkumar-cse27",
+        "sender": "Santhosh",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "MIRAGE CTF by Amrita Vishwa Vidyapeetham (AVV), Chennai",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "https://unstop.com/o/l1BOciI?lb=taUKKDHq&utm_medium=Share&utm_source=WhatsApp",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "After lunch",
+        "sender": "Santhosh",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Okay",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "En advisor eh kaanum rendu perum 🤣∂",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "No",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Vandruchu (I am leaving)",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "stranger things",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Yes",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "No stranger things theme",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Ok na vanathi akka rendu poster create pannu nu ipo sonnanga",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Class la Irukan",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "3 o'clock",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "ctf and soc",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Vishal",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Because Adarshh Anna was asleep",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Asking for something",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Because Adarshh Anna didn't come",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Vishal Anna got absconded",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Seri da vidu. Nalaki cyber symposium soo atha busy ahh irupanga. Guys OD kedacha citar library vanthudunga.",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Cyber Symposium",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Santhosh",
+        "sender": "+91 95005 11686",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Akka google gmeet link",
+        "sender": "+91 95005 11686",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "https://meet.google.com/zqg-xdcw-tui",
+        "sender": "+91 95005 11686",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "https://github.com/ExploitX-CIT/ExploitX-Into-the-Void-2025",
+        "sender": "+91 95005 11686",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Hello everyone,",
+        "sender": "+91 95005 11686",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Akka enga varnum",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Not specified yet (poll ongoing)",
+        "sender": "+91 63819 84881",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "@⁨Surendhir Anna⁩",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "meet.google.com/qrz-vrbs-jae",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "meet.google.com/oca-vzfy-riy",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Anna Nalaiku konjam velila poren na (I will be late a bit)",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "So stay back panna mudiyathu (Please stay back)",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "at clg (at college)",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Anna naaliku function iruku veetla na clg vara maaten adhu naala (Anna's function is happening in college, and they are waiting for you)",
+        "sender": "Sankara Narayanan",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Try arranging some alternative as it is very important we are asking you to stay back",
+        "sender": "+91 63819 84881",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Sandhya",
+        "sender": "Sandhya",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Since most of you all are not available today for stay back",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "+91 75501 61930",
+        "sender": "A group member",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Most of you all are not available today",
+        "sender": "A group member",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Vishal Anna",
+        "sender": "A group member",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "https://pixels.exploitx.org/",
+        "sender": "A group member",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "301",
+        "sender": "Logitha",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Anna is Surendhir Anna",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "https://meet.google.com/qky-pfvf-tzc",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Surendhir Anna",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Yes",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "+91 63819 84881",
+        "sender": "+91 63819 84881",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Sincere apologies for not letting know to all at prior and we make sure to announce at prior in the upcoming. <This message was edited>",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "206",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Python Lab",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "tomorrow before 8:30am",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "",
+        "sender": "Unknown",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Sincere apologies for not letting know to all at prior and we make sure to announce at prior in the upcoming.",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "+91 63819 84881",
+        "sender": "+91 63819 84881",
+        "score": 0.75
+      }
+    ],
+    "related_topics": [
+      "schedule",
+      "assignment",
+      "exam",
+      "attendance",
+      "result",
+      "deadline",
+      "holiday"
+    ],
+    "has_contradiction": false,
+    "urgency_score": 10.0,
+    "last_answered": "",
+    "best_answer": "Sincere apologies for not letting know to all at prior and we make sure to announce at prior in the upcoming.",
+    "best_sender": "+91 75501 61930",
+    "best_score": 0.95
+  },
+  "schedule": {
+    "ask_count": 2,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "meet.google.com/isn-kwjq-qpv",
+        "sender": "+91 75501 61930",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Tomrw 5 to 11pm",
+        "sender": "Sankara Narayanan",
+        "score": 0.75
+      }
+    ],
+    "related_topics": [
+      "general",
+      "assignment",
+      "exam"
+    ],
+    "has_contradiction": false,
+    "urgency_score": 1.0,
+    "last_answered": "",
+    "best_answer": "Tomrw 5 to 11pm",
+    "best_sender": "Sankara Narayanan",
+    "best_score": 0.75
+  },
+  "assignment": {
+    "ask_count": 14,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "As the symposium season is nearing, from the part of ExploitX we need to take workshops on different symposiums.",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "3-4 days",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "College students from any department",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Na im interested",
+        "sender": "+91 99418 90173",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Unknown",
+        "sender": "+91 99418 90173",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Yes",
+        "sender": "+91 99418 90173",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Web development, including frontend, backend, and website security",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Seniors",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "-",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "1st years",
+        "sender": "+91 75501 61930",
+        "score": 0.95
+      },
+      {
+        "date": "",
+        "answer": "Web",
+        "sender": "Logitha",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Friday (20/02/2026)",
+        "sender": "+91 63819 84881",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "24/02/2026",
+        "sender": "+91 63819 84881",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "25/02/2026",
+        "sender": "+91 63819 84881",
+        "score": 0.75
+      }
+    ],
+    "related_topics": [
+      "general",
+      "schedule",
+      "attendance",
+      "result",
+      "deadline"
+    ],
+    "has_contradiction": true,
+    "urgency_score": 7.0,
+    "last_answered": "",
+    "best_answer": "1st years",
+    "best_sender": "+91 75501 61930",
+    "best_score": 0.95
+  },
+  "exam": {
+    "ask_count": 4,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "Sandhya: Anna nanga exam mudichitu vella porom frnds la 😟",
+        "sender": "Sandhya",
+        "score": 0.3
+      },
+      {
+        "date": "",
+        "answer": "He says that he has an exam and won't be able to call on C2C (WhatsApp group)",
+        "sender": "Sankara Narayanan",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "Kavi Nisha",
+        "score": 0.55
+      },
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "Surendhir Anna",
+        "score": 0.95
+      }
+    ],
+    "related_topics": [
+      "general",
+      "schedule",
+      "attendance"
+    ],
+    "has_contradiction": false,
+    "urgency_score": 2.0,
+    "last_answered": "",
+    "best_answer": "Not specified",
+    "best_sender": "Surendhir Anna",
+    "best_score": 0.95
+  },
+  "attendance": {
+    "ask_count": 2,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "It's your choice",
+        "sender": "Surendhir Anna",
+        "score": 0.75
+      },
+      {
+        "date": "",
+        "answer": "Yes",
+        "sender": "+91 63819 84881",
+        "score": 0.75
+      }
+    ],
+    "related_topics": [
+      "general",
+      "assignment",
+      "exam"
+    ],
+    "has_contradiction": false,
+    "urgency_score": 1.0,
+    "last_answered": "",
+    "best_answer": "Yes",
+    "best_sender": "+91 63819 84881",
+    "best_score": 0.75
+  },
+  "result": {
+    "ask_count": 1,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "Not specified",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      }
+    ],
+    "related_topics": [
+      "general",
+      "assignment",
+      "deadline"
+    ],
+    "has_contradiction": false,
+    "urgency_score": 0.5,
+    "last_answered": "",
+    "best_answer": "Not specified",
+    "best_sender": "+91 99418 90173",
+    "best_score": 0.95
+  },
+  "deadline": {
+    "ask_count": 1,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "3 kula submit pannanum",
+        "sender": "+91 99418 90173",
+        "score": 0.95
+      }
+    ],
+    "related_topics": [
+      "general",
+      "assignment",
+      "result"
+    ],
+    "has_contradiction": false,
+    "urgency_score": 0.5,
+    "last_answered": "",
+    "best_answer": "3 kula submit pannanum",
+    "best_sender": "+91 99418 90173",
+    "best_score": 0.95
+  },
+  "holiday": {
+    "ask_count": 1,
+    "answer_history": [
+      {
+        "date": "",
+        "answer": "Not specified in the provided chat",
+        "sender": "A group member",
+        "score": 0.75
+      }
+    ],
+    "related_topics": [
+      "general"
+    ],
+    "has_contradiction": false,
+    "urgency_score": 0.5,
+    "last_answered": "",
+    "best_answer": "Not specified in the provided chat",
+    "best_sender": "A group member",
+    "best_score": 0.75
+  }
+}

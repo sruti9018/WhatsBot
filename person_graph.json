@@ -1,0 +1,314 @@
+{
+  "+91": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "syllabus"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Anna": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Unknown": {
+    "answers_given": 5,
+    "validations_received": 0,
+    "authority_score": 0.55,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Active Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "+91 75501 61930": {
+    "answers_given": 44,
+    "validations_received": 0,
+    "authority_score": 0.95,
+    "topics_covered": [
+      "general",
+      "schedule",
+      "assignment"
+    ],
+    "detected_role": "Admin",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "+91 99418 90173": {
+    "answers_given": 32,
+    "validations_received": 0,
+    "authority_score": 0.95,
+    "topics_covered": [
+      "general",
+      "assignment",
+      "result",
+      "deadline"
+    ],
+    "detected_role": "Admin",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Sankara Narayanan": {
+    "answers_given": 29,
+    "validations_received": 0,
+    "authority_score": 0.95,
+    "topics_covered": [
+      "general",
+      "schedule",
+      "exam"
+    ],
+    "detected_role": "Admin",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Inference": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Kavi Nisha": {
+    "answers_given": 6,
+    "validations_received": 0,
+    "authority_score": 0.55,
+    "topics_covered": [
+      "general",
+      "exam"
+    ],
+    "detected_role": "Active Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "+91 99522 11397": {
+    "answers_given": 7,
+    "validations_received": 0,
+    "authority_score": 0.55,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Active Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "None": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Sandhya": {
+    "answers_given": 4,
+    "validations_received": 0,
+    "authority_score": 0.55,
+    "topics_covered": [
+      "general",
+      "exam"
+    ],
+    "detected_role": "Active Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Santhosh": {
+    "answers_given": 6,
+    "validations_received": 0,
+    "authority_score": 0.55,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Active Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Surendhir Anna": {
+    "answers_given": 28,
+    "validations_received": 0,
+    "authority_score": 0.95,
+    "topics_covered": [
+      "general",
+      "attendance",
+      "exam"
+    ],
+    "detected_role": "Admin",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "System": {
+    "answers_given": 2,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Logitha": {
+    "answers_given": 10,
+    "validations_received": 0,
+    "authority_score": 0.75,
+    "topics_covered": [
+      "general",
+      "assignment"
+    ],
+    "detected_role": "Representative",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Vishal Anna": {
+    "answers_given": 9,
+    "validations_received": 0,
+    "authority_score": 0.75,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Representative",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Santhosh, Sankara Narayanan": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "+91 63819 84881": {
+    "answers_given": 11,
+    "validations_received": 0,
+    "authority_score": 0.75,
+    "topics_covered": [
+      "general",
+      "assignment",
+      "attendance"
+    ],
+    "detected_role": "Representative",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "A group member": {
+    "answers_given": 8,
+    "validations_received": 0,
+    "authority_score": 0.75,
+    "topics_covered": [
+      "general",
+      "holiday"
+    ],
+    "detected_role": "Representative",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "+91 95005 11686": {
+    "answers_given": 11,
+    "validations_received": 0,
+    "authority_score": 0.75,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Representative",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Shwetha Akka - ExploitX": {
+    "answers_given": 2,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Not specified in the chat": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Sriram Anna": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Not specified": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "-": {
+    "answers_given": 2,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "Kathiravan Anna": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  },
+  "@⁨Surendhir Anna⁩": {
+    "answers_given": 1,
+    "validations_received": 0,
+    "authority_score": 0.3,
+    "topics_covered": [
+      "general"
+    ],
+    "detected_role": "Member",
+    "first_seen": "",
+    "last_active": ""
+  }
+}
