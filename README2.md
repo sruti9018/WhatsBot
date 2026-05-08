@@ -1,12 +1,13 @@
 # WhatsBot 🤖💬
 ### Domain-Specific FAQ Chatbot Built from WhatsApp Group Chat Export Using Local LLMs
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![Mistral](https://img.shields.io/badge/LLM-Mistral_7B-orange)
-![Ollama](https://img.shields.io/badge/Runtime-Ollama-black)
-![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
-![Offline](https://img.shields.io/badge/Mode-100%25_Offline-green)
+![WhatsBot](https://img.shields.io/badge/WhatsBot-WhatsApp%20FAQ%20Agent-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-7B-orange?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-blue?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Offline](https://img.shields.io/badge/100%25-Offline-25D366?style=for-the-badge)
 
 ---
 
